@@ -68,7 +68,7 @@ A self-directed cybersecurity project where I attacked **OWASP Juice Shop** — 
 
 ## Project context
 
-- **Year** : 2024–2025
+- **Year** : 2025–2026
 - **School** : Epitech Bachelor, Mulhouse
 - **Team** : solo (self-directed CTF)
 - **Course** : Cybersecurity (B-SEC-100)
