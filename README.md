@@ -79,4 +79,4 @@ This is a portfolio summary. The full write-ups (17 markdown files with payloads
 
 ---
 
-[Imran Nogueira](https://github.com/imrannnn30) · MMXXVI
+[Imran Nogueira](https://github.com/imrannnn30)
